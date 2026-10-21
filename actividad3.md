@@ -222,3 +222,6 @@ son dos archivos diferentes.
 [GNU Coreutils](https://www.gnu.org/software/coreutils/)
 
 ## Mas comandos
+
+
+## Información del proyecto
