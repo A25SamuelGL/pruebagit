@@ -229,3 +229,8 @@ son dos archivos diferentes.
 Esta documentación se ha elaborado utilizando Markdown.
 El control de versiones se realiza mediante Git
 y el repositorio remoto se encuentra alojado en GitHub.
+
+ ## Próximas mejoras.
+Añadir mas información mas detallada de los comandos
+Añadir mas comandos de Linux
+Estructurar a la perfección el proyecto
